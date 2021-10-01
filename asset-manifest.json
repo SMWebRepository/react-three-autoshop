@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-three-autoshop/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-three-autoshop/static/js/main.6d98768c.chunk.js",
+    "main.js.map": "/react-three-autoshop/static/js/main.6d98768c.chunk.js.map",
+    "runtime-main.js": "/react-three-autoshop/static/js/runtime-main.f1841acd.js",
+    "runtime-main.js.map": "/react-three-autoshop/static/js/runtime-main.f1841acd.js.map",
+    "static/js/2.40316836.chunk.js": "/react-three-autoshop/static/js/2.40316836.chunk.js",
+    "static/js/2.40316836.chunk.js.map": "/react-three-autoshop/static/js/2.40316836.chunk.js.map",
+    "static/js/3.c52d4510.chunk.js": "/react-three-autoshop/static/js/3.c52d4510.chunk.js",
+    "static/js/3.c52d4510.chunk.js.map": "/react-three-autoshop/static/js/3.c52d4510.chunk.js.map",
+    "index.html": "/react-three-autoshop/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-three-autoshop/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.40316836.chunk.js.LICENSE.txt": "/react-three-autoshop/static/js/2.40316836.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1841acd.js",
+    "static/js/2.40316836.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6d98768c.chunk.js"
+  ]
+}

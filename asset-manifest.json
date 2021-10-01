@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-three-autoshop/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-three-autoshop/static/js/main.8997b341.chunk.js",
-    "main.js.map": "/react-three-autoshop/static/js/main.8997b341.chunk.js.map",
+    "main.js": "/react-three-autoshop/static/js/main.6fed142b.chunk.js",
+    "main.js.map": "/react-three-autoshop/static/js/main.6fed142b.chunk.js.map",
     "runtime-main.js": "/react-three-autoshop/static/js/runtime-main.f1841acd.js",
     "runtime-main.js.map": "/react-three-autoshop/static/js/runtime-main.f1841acd.js.map",
     "static/js/2.40316836.chunk.js": "/react-three-autoshop/static/js/2.40316836.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f1841acd.js",
     "static/js/2.40316836.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.8997b341.chunk.js"
+    "static/js/main.6fed142b.chunk.js"
   ]
 }
